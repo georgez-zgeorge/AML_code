@@ -2,7 +2,7 @@ Current Assignment
 
 ### Grading[](http://localhost:8888/lab#Grading)
 
-This homework is due **Feb. 20, 2018 by 3:00pm Utah time.** By that time, you need to have committed all your code to your github and submitted a link to your work to the TA. We can see on your Github account when you last committed code. :)
+This homework is due **Oct. 16, 2018 by 4:00pm Utah time.** By that time, you need to have committed all your code to your github and submitted a link to your work to the TA. We can see on your Github account when you last committed code. :)
 
 Rubric:
 
